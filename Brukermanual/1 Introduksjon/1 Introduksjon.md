@@ -47,7 +47,7 @@ brukerdokumentasjon for Planner finnes i [Microsoft sitt eget hjelpesenter](http
 
 Alle prosjekter kan om ønskelig opprette sitt eget team i Teams for samhandling
 og kommunikasjon. Det er opp til det enkelte prosjekt må ta stilling til om det
-er behov for det eller ikke. Funksjonalitet som direktemeldinger, møter og
+er behov for det eller ikke.. Funksjonalitet som direktemeldinger, møter og
 samtaler er bare noe av det som er mulig med et team knyttet til
 prosjektområdet. For veiledning og hjelp rundt Teams anbefaler vi [Microsoft sitt
 eget hjelpesenter](https://support.office.com/nb-no/teams).
